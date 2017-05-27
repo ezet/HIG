@@ -1,0 +1,175 @@
+3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting3 (QuickAccess)
+
+3) Type "att"
+
+...the QuickAccess dialog shows "at" and the VS crashes!
+
+ CoryCissell 19 Jul 2010 5:52 AM
+Bug:
+
+Fixed: Projects tab is the default
+
+This bug still exists. It opened on the Assemblies tab on two different developers machines.
+
+ Shimmy 19 Jul 2010 6:50 AM
+@CoryCissel, I tried what you said and it doesn't crash!
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ Shimmy 19 Jul 2010 6:57 AM
+I am sorry, I meant @Robert Haken.
+
+ styx31 19 Jul 2010 7:53 AM
+The QuickAccess crash every time I try to use it. You only need to press one key to cause it :
+
+"Set property 'Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.ItemWidths' threw an exception."
+
+"Value does not fall within the expected range." at Microsoft.VisualStudio.QuickAccess.VSPackage.UI.TwoItemPanel.set_ItemWidths(String value)
+
+I'm using an EN-US VS on EN-US OS but with French regional setting

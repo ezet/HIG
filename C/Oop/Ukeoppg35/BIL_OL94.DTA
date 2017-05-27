@@ -1,0 +1,10 @@
+ 1  100  125  15 km fri teknikk,     kvinner
+ 2  200  125  30 km fri teknikk,     menn
+ 3  300  125   5 km klassisk,        kvinner
+ 4  400  125  10 km klassisk,        menn
+ 5 1000  125  10 km fri-jaktstart,   kvinner
+ 6 1000  125  15 km fri-jaktstart,   menn
+ 7  200  150  4x5 km stafett,        kvinner
+ 8  200  150  4x10 km stafett,       menn
+ 9  500  125  30 km klassisk,        kvinner
+10  500  150  50 km klassisk,        menn

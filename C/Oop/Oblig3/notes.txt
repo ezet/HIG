@@ -1,0 +1,58 @@
+Class Person extends TextElement
+	static Factory()
+	static Factory()
+	Person()
+
+	char *text
+	
+	Class Drug extends TextElement:
+	static Factory()
+	static Factory(name)
+	AddPrescript(Prescription)
+	display()
+
+	static List *drugs
+	List *prescripts
+	char *text
+
+Class Doctor extends TextElement:
+	static Factory()
+	static Factory(name)
+	SetData()
+	AddPrescript(Prescription)
+	display()
+	
+	static List *doctors
+	List *prescripts
+	char *text
+	char *address
+	int phone
+
+Class Prescription extends TextElement:
+	static Factory()
+	static Factory(name)
+
+	char text
+	int dose
+	Doctor *doctor
+	Drug *drug
+	Date *date
+	
+Class Application:
+	PrintMenu()
+	GetCommand()
+	NewPrescript()
+	PurgePrescript()
+	PrintPrescriptByDoctor()
+	PrintPrescriptByPatient()
+	WriteToFile()
+	ReadFromFile()
+	Help()
+	Quit()
+
+
+year, month, date;
+
+
+
+

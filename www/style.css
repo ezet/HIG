@@ -1,0 +1,18 @@
+﻿label {
+    width: 120px;
+    float: left;
+    text-align: right;
+    padding-right: 5px;
+}
+
+input {
+  width: 200px;
+}
+
+input[type="number"] {
+  width: 50px;
+}
+
+input[type="date"] {
+  width: 100px;
+}

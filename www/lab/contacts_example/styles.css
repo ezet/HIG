@@ -1,0 +1,48 @@
+﻿label {
+	font-size : 0.8em;
+	font-weight : bold;
+	font-family : arial, sans-serif;
+	width : 140px;
+	text-align : right;
+	float : left;
+	margin-right : 5px;
+}
+
+.small {
+	font-size : 0.5em;
+	font-weight : normal;
+}
+
+input {
+	width : 250px;
+	font-size : 1.4em;
+	font-weight : light;
+	margin-bottom : 3px;
+	font-family : Calibri, 'Arial Narrow', sans-serif;
+}
+
+select {
+	width : 250px;
+}
+
+input[name="postcode"] {
+	width : 120px;
+}
+
+input[type="submit"] {
+	margin-top : 10px;
+	margin-left : 70px;
+}
+
+.error {
+	color : red;
+}
+
+ul {
+  margin-top : 2px;
+	margin-bottom : 2px;
+}
+
+h3  {
+	margin-bottom : 0px;
+}

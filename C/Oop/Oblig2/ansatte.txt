@@ -1,0 +1,28 @@
+<Ansatt:nr>
+<Ansatt::fornavn>
+<Ansatt::fodselsdato>
+<Ansatt::etternavn>
+<Partner::fornavn>
+<Partner::fodselsdato>
+<Partner::etternavn>
+<Partner::telefon1> <Partner::telefon2>
+<Ansatt:ant_barn>
+<Barn::fornavn>
+<Barn::fodselsdato>
+<Barn::kjonn>
+1
+Lars Kristian
+241085
+Dahl
+Oklandslio 121
+Silje
+121287
+Waage
+12312312 12312312
+2
+Per
+951212
+1
+Helene
+981212
+0

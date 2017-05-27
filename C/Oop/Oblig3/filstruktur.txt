@@ -1,0 +1,18 @@
+Filstrukturen er delt opp i 2 filer, doctor.txt og prescriptions.txt,
+slik at doktor klassen ikke er avhengig av resepter. Pasienter og 
+medikamenter lagres i utgangspunktet sammen med resepter, men programmet er
+skrevet slik at disse enkelt kan lagres i separate filer dersom de skulle få
+tillagt mer informasjon ved en senere anledning.
+Resepter refererer til doktorer gjennom doktorens navn, lagret under hver resept.
+
+doctor.txt
+Name
+Phone
+Address
+
+prescriptions.txt
+Patientname
+Doctorname
+Drugname
+Date
+Dose

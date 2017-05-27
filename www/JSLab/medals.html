@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Title</title>
+        <script type="text/javascript">
+            function change() {
+                var table = document.getElementById('medals');
+                table.style.cssText = 'background-color: #000; color: #FFF;';
+                table.tHead.rows[0].cells[0].style.cssText = 'color: orange; font-size: 1.4em;';
+                table.tHead.rows[1].cells[0].style.textAlign = 'left';
+
+                table.tBodies[0].rows[0].style.color = 'orange';
+
+
+                var rows = table.tBodies[0].rows;
+                for (var i = 0; i < rows.length; ++i) {
+                    rows[i].cells[0].style.cssText = 'width: 30px; text-align: right;';
+                    rows[i].cells[1].style.width = '110px';
+                    rows[i].cells[3].style.cssText = 'width: 20px; text-align: center;';
+                    rows[i].cells[4].style.cssText = 'width: 20px; text-align: center;';
+                    rows[i].cells[5].style.cssText = 'width: 20px; text-align: center;';
+                    rows[i].cells[6].style.cssText = 'text-align: right;';
+                    
+                }
+
+                
+            }
+        </script>
+    </head>
+    <body onload="change()">
+        <table id="medals">
+            <thead>
+                <tr>
+                    <th colspan="7">Medaljeoversikt</th>
+                </tr>
+                <tr>
+                    <th colspan="3">Land</th>
+                    <th>G</th>
+                    <th>S</th>
+                    <th>B</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1.</td><td>Norge</td><td><img alt=""  width=22 height=14 src="image001.gif"></td><td>4</td><td>4</td><td>4</td><td>12</td>
+                </tr>
+                <tr><td>2.</td><td>Osterrike</td><td><img alt=""  width=22 height=14 src="image002.gif"></td><td>4</td><td>1</td><td>1</td><td>6</td>
+                </tr>
+                <tr><td>3.</td><td>Sverige</td><td><img alt=""  width=22 height=14 src="image003.gif"></td><td>2</td><td>0</td><td>1</td><td>3</td>
+                </tr>
+                <tr><td>4.</td><td>Tyskland</td><td><img alt=""  width=22 height=14 src="image004.gif"></td><td>1</td><td>3</td><td>2</td><td>6</td>
+                </tr>
+                <tr><td>5.</td><td>Finland</td><td><img alt=""  width=22 height=14 src="image005.gif"></td><td>1</td><td>1</td><td>1</td><td>3</td>
+                </tr>
+                <tr><td>6.</td><td>Frankrike</td><td><img alt=""  width=22 height=14 src="image006.gif"></td><td>1</td><td>0</td><td>1</td><td>2</td>
+                </tr>
+                <tr><td>7.</td><td>Canada</td><td><img alt=""  width=22 height=14 src="image007.gif"></td><td>1</td><td>0</td><td>0</td><td>1</td>
+                </tr>
+                <tr><td>8.</td><td>Polen</td><td><img alt=""  width=22 height=14 src="image008.gif"></td><td>0</td><td>2</td><td>1</td><td>3</td>
+                </tr>
+                <tr><td>9.</td><td>Italia</td><td><img alt=""  width=22 height=14 src="image009.gif"></td><td>0</td><td>2</td><td>0</td><td>2</td>
+                </tr>
+                <tr><td>10.</td><td>Russland</td><td><img alt=""  width=22 height=14 src="image010.gif"></td><td>0</td><td>1</td><td>2</td><td>3</td>
+                </tr>
+                <tr><td>11.</td><td>Slovenia</td><td><img alt=""  width=22 height=14 src="image011.gif"></td><td>0</td><td>0</td><td>1</td><td>1</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,142 @@
+
+
+Invoice: 1001
+Date: 02/14/11
+Customer ID: 100001
+	Name: ACJQYZHVHYSUWMOHDJ 
+	Address: 
+
+Product:
+	Event no:	1
+	Description:    15 km fri teknikk,     kvinner
+	Ordered qty:	3
+	Received qty:	0
+	Price per:	125,- NOK
+	Sum:		0,- NOK
+
+	Event no:	4
+	Description:    10 km klassisk,        menn
+	Ordered qty:	4
+	Received qty:	4
+	Price per:	125,- NOK
+	Sum:		500,- NOK
+
+	Event no:	7
+	Description:    4x5 km stafett,        kvinner
+	Ordered qty:	8
+	Received qty:	0
+	Price per:	150,- NOK
+	Sum:		0,- NOK
+
+Tax	: 0
+TOTAL	: 500,- NOK
+
+Comments:
+	Enjoy your days at the Olympics!
+	For inquiries call us at: 123 12 312
+
+------------------------------------------------------------
+
+Invoice: 1002
+Date: 02/14/11
+Customer ID: 100002
+	Name: NRSFIJAWEVHMDGEOSI 
+	Address: 
+
+Product:
+	Event no:	3
+	Description:     5 km klassisk,        kvinner
+	Ordered qty:	6
+	Received qty:	0
+	Price per:	125,- NOK
+	Sum:		0,- NOK
+
+	Event no:	4
+	Description:    10 km klassisk,        menn
+	Ordered qty:	7
+	Received qty:	7
+	Price per:	125,- NOK
+	Sum:		875,- NOK
+
+	Event no:	5
+	Description:    10 km fri-jaktstart,   kvinner
+	Ordered qty:	7
+	Received qty:	7
+	Price per:	125,- NOK
+	Sum:		875,- NOK
+
+	Event no:	7
+	Description:    4x5 km stafett,        kvinner
+	Ordered qty:	2
+	Received qty:	0
+	Price per:	150,- NOK
+	Sum:		0,- NOK
+
+	Event no:	9
+	Description:    30 km klassisk,        kvinner
+	Ordered qty:	3
+	Received qty:	3
+	Price per:	125,- NOK
+	Sum:		375,- NOK
+
+Tax	: 0
+TOTAL	: 2125,- NOK
+
+Comments:
+	Enjoy your days at the Olympics!
+	For inquiries call us at: 123 12 312
+
+------------------------------------------------------------
+
+Invoice: 1003
+Date: 02/14/11
+Customer ID: 100003
+	Name: KNMJIMSKKLDQFTEXSB 
+	Address: 
+
+Product:
+	Event no:	4
+	Description:    10 km klassisk,        menn
+	Ordered qty:	4
+	Received qty:	4
+	Price per:	125,- NOK
+	Sum:		500,- NOK
+
+	Event no:	7
+	Description:    4x5 km stafett,        kvinner
+	Ordered qty:	5
+	Received qty:	5
+	Price per:	150,- NOK
+	Sum:		750,- NOK
+
+Tax	: 0
+TOTAL	: 1250,- NOK
+
+Comments:
+	Enjoy your days at the Olympics!
+	For inquiries call us at: 123 12 312
+
+------------------------------------------------------------
+
+Invoice: 1004
+Date: 02/14/11
+Customer ID: 100004
+	Name: JPQNBGVBKPKUNXVHWR 
+	Address: 
+
+Product:
+	Event no:	10
+	Description:    50 km klassisk,        menn
+	Ordered qty:	2
+	Received qty:	2
+	Price per:	150,- NOK
+	Sum:		300,- NOK
+
+Tax	: 0
+TOTAL	: 300,- NOK
+
+Comments:
+	Enjoy your days at the Olympics!
+	For inquiries call us at: 123 12 312
+
+------------------------------------------------------------
